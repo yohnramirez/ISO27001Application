@@ -1,0 +1,6 @@
+@AppISO_HostAddress = http://localhost:5258
+
+GET {{AppISO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
